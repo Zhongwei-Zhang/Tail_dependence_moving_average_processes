@@ -1,0 +1,1 @@
+# Tail_dependence_coffients_moving_average_processes
