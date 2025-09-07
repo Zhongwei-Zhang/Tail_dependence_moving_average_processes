@@ -4,8 +4,8 @@ library(scales)
 library(expm)
 
 #set your working directory
-setwd("~/Dropbox KAUST/Projects/NonGaussian_SPDE/R code")
-#setwd("C:/Users/zhangzho/Dropbox (KAUST)/Projects/NonGaussian_SPDE/R code")
+setwd("your working directory")
+# load Rcpp functions
 Rcpp::sourceCpp("Code/functions.cpp")
 
 # generate observational locations
